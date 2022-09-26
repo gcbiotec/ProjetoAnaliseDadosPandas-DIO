@@ -1,0 +1,1 @@
+SELECT Nome_Fantasia FROM Client_PJ LIMIT(10);
