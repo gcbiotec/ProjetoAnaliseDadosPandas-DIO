@@ -1,1 +1,3 @@
-SELECT Nome_Fantasia FROM Client_PJ LIMIT(10);
+SELECT Nome_Fantasia FROM Client_PJ
+WHERE idade > 55
+LIMIT(10);
