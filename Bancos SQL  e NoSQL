@@ -1,0 +1,21 @@
+O SQL é uma linguagem de programação para trabalhar com bancos de dados relacionais, ou seja, um banco de dados que possui tabelas com estruturas bem definidas.
+
+Os programas mais utilizados no mercado de trabalho que usam o SQL são: Oracle, MySQL, SQL Server e PostgreSQL.
+
+Para esses programas nós vamos ter o SQL como uma linguagem padrão, ou seja, você vai ter a mesma linguagem independente do programa que está trabalhando.
+
+Agora o NoSQL significa Not Only SQL, ou seja, não só SQL. Isso quer dizer que nesses bancos de dados podemos ter, mas não vai ser a única linguagem de programação.
+
+Você pode ouvir falar em NoSEQUEL também, onde o SEQUEL é o nome mais utilizado em inglês para o SQL. Então se encontrar em algum lugar lembre-se de que é o SQL.
+
+Agora para o NoSQL nós vamos ter bancos de dados não relacionais, ou seja, aqui não vamos ter tabelas com estruturas bem definidas como normalmente somos acostumados.
+
+Os programas mais utilizados para o NoSQL são: MongoDB, Cassandra, Neo4j e Riak.
+
+Aqui você pode ter um problema em relação a linguagem de programação, pois como não temos bancos de dados relacionais cada um desses programas vai ter uma linguagem de programação diferente.
+
+Aqui já entra uma grande diferença entre o SQL e o NoSQL, que é a dificuldade de ter uma única linguagem.
+
+Então se você precisar trabalhar com alguns desses programas provavelmente vai ter que aprender a linguagem desse programa específico.
+
+Uma coisa importante que muita gente acaba pensando por causa do nome NoSQL. Não quer dizer que não tenha SQL, como foi dito no início é uma sigla para Not Only SQL, ou seja, não é só SQL.
